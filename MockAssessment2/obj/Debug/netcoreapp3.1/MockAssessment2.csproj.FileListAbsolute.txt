@@ -1,0 +1,13 @@
+C:\Users\mblma\source\repos\GrandCircusProjects\MockAssessment2\MockAssessment2\bin\Debug\netcoreapp3.1\MockAssessment2.exe
+C:\Users\mblma\source\repos\GrandCircusProjects\MockAssessment2\MockAssessment2\bin\Debug\netcoreapp3.1\MockAssessment2.deps.json
+C:\Users\mblma\source\repos\GrandCircusProjects\MockAssessment2\MockAssessment2\bin\Debug\netcoreapp3.1\MockAssessment2.runtimeconfig.json
+C:\Users\mblma\source\repos\GrandCircusProjects\MockAssessment2\MockAssessment2\bin\Debug\netcoreapp3.1\MockAssessment2.runtimeconfig.dev.json
+C:\Users\mblma\source\repos\GrandCircusProjects\MockAssessment2\MockAssessment2\bin\Debug\netcoreapp3.1\MockAssessment2.dll
+C:\Users\mblma\source\repos\GrandCircusProjects\MockAssessment2\MockAssessment2\bin\Debug\netcoreapp3.1\MockAssessment2.pdb
+C:\Users\mblma\source\repos\GrandCircusProjects\MockAssessment2\MockAssessment2\obj\Debug\netcoreapp3.1\MockAssessment2.csprojAssemblyReference.cache
+C:\Users\mblma\source\repos\GrandCircusProjects\MockAssessment2\MockAssessment2\obj\Debug\netcoreapp3.1\MockAssessment2.csproj.CoreCompileInputs.cache
+C:\Users\mblma\source\repos\GrandCircusProjects\MockAssessment2\MockAssessment2\obj\Debug\netcoreapp3.1\MockAssessment2.AssemblyInfoInputs.cache
+C:\Users\mblma\source\repos\GrandCircusProjects\MockAssessment2\MockAssessment2\obj\Debug\netcoreapp3.1\MockAssessment2.AssemblyInfo.cs
+C:\Users\mblma\source\repos\GrandCircusProjects\MockAssessment2\MockAssessment2\obj\Debug\netcoreapp3.1\MockAssessment2.dll
+C:\Users\mblma\source\repos\GrandCircusProjects\MockAssessment2\MockAssessment2\obj\Debug\netcoreapp3.1\MockAssessment2.pdb
+C:\Users\mblma\source\repos\GrandCircusProjects\MockAssessment2\MockAssessment2\obj\Debug\netcoreapp3.1\MockAssessment2.genruntimeconfig.cache
